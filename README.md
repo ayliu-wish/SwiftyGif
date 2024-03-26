@@ -4,6 +4,12 @@
 [![Build Status](https://travis-ci.org/kirualex/SwiftyGif.svg?branch=master)](https://travis-ci.org/kirualex/SwiftyGif)
 [![Pod License](http://img.shields.io/cocoapods/l/SDWebImage.svg?style=flat)](https://raw.githubusercontent.com/kirualex/SwiftyGif/master/LICENSE)
 
+
+# This is a fork from [SwiftyGif](https://github.com/kirualex/SwiftyGif), should turn back to [SwiftyGif](https://github.com/kirualex/SwiftyGif) after its new release is published(after 5.4.4).
+
+
+
+
 # SwiftyGif
 High performance & easy to use Gif engine
 
@@ -40,7 +46,7 @@ github "kirualex/SwiftyGif"
 
 ### With Swift Package Manager
 ```ruby
-https://github.com/kirualex/SwiftyGif.git
+https://github.com/ayliu-wish/SwiftyGif.git
 ```
 
 ## How to Use
